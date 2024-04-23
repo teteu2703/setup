@@ -5,4 +5,4 @@ cd C:\Users\MAUA-MERCEDESVALENTI
 
 git clone https://github.com/teteu2703/Caesar-Cipher.git
 cd Caesar-Cipher 
-code 
+code .
